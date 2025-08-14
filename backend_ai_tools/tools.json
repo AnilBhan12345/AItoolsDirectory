@@ -1,0 +1,302 @@
+[
+  {
+    "name": "ChatGPT",
+    "description": "A powerful conversational AI model by OpenAI capable of generating human-like text, answering questions, writing code, and more.",
+    "website_link": "https://chat.openai.com/",
+    "category": "Chatbot / LLM"
+  },
+  {
+    "name": "Google Gemini",
+    "description": "Google's multimodal AI model designed to understand and process text, images, audio, and video for advanced reasoning and conversation.",
+    "website_link": "https://gemini.google.com/",
+    "category": "Chatbot / LLM"
+  },
+  {
+    "name": "Midjourney",
+    "description": "An AI image generator that creates highly artistic and detailed images from textual prompts, accessed via Discord.",
+    "website_link": "https://www.midjourney.com/",
+    "category": "Image Generation"
+  },
+  {
+    "name": "Jasper",
+    "description": "An AI content platform that helps marketing and sales teams create high-quality copy for ads, emails, blogs, and more.",
+    "website_link": "https://www.jasper.ai/",
+    "category": "Content Generation"
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "An AI pair programmer that provides code suggestions and completions directly in your code editor.",
+    "website_link": "https://github.com/features/copilot",
+    "category": "Coding Assistant"
+  },
+  {
+    "name": "Runway",
+    "description": "An AI-powered suite of creative tools for video editing, including text-to-video generation, motion tracking, and background removal.",
+    "website_link": "https://runwayml.com/",
+    "category": "Video Generation"
+  },
+  {
+    "name": "Suno AI",
+    "description": "An AI music generator that creates full songs, including lyrics, instruments, and vocals, from simple text prompts.",
+    "website_link": "https://suno.com/",
+    "category": "Music Generation"
+  },
+  {
+    "name": "Perplexity AI",
+    "description": "A conversational AI search engine that provides direct answers to questions with citations and sources from the web.",
+    "website_link": "https://www.perplexity.ai/",
+    "category": "Research / Search"
+  },
+  {
+    "name": "Claude",
+    "description": "An AI assistant from Anthropic focused on helpful, harmless, and honest conversations, ideal for summarization and creative writing.",
+    "website_link": "https://claude.ai/",
+    "category": "Chatbot / LLM"
+  },
+  {
+    "name": "Synthesia",
+    "description": "An AI video generation platform that creates professional videos with realistic AI avatars, eliminating the need for cameras.",
+    "website_link": "https://www.synthesia.io/",
+    "category": "Video Generation"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "AI-powered text-to-speech (TTS) and voice cloning software for creating natural-sounding audio in multiple languages.",
+    "website_link": "https://elevenlabs.io/",
+    "category": "Audio Generation"
+  },
+  {
+    "name": "Notion AI",
+    "description": "AI features integrated directly into the Notion workspace to summarize notes, brainstorm ideas, and improve writing.",
+    "website_link": "https://www.notion.so/product/ai",
+    "category": "Productivity"
+  },
+  {
+    "name": "Grammarly",
+    "description": "An AI-powered writing assistant that checks grammar, spelling, punctuation, clarity, and tone across various platforms.",
+    "website_link": "https://www.grammarly.com/",
+    "category": "Writing Assistant"
+  },
+  {
+    "name": "Canva Magic Studio",
+    "description": "A suite of AI-powered design tools within Canva that can generate images, videos, presentations, and copy automatically.",
+    "website_link": "https://www.canva.com/magic-studio/",
+    "category": "Design"
+  },
+  {
+    "name": "Tome",
+    "description": "An AI-powered presentation and storytelling tool that helps generate entire narratives and slides from a single prompt.",
+    "website_link": "https://tome.app/",
+    "category": "Presentation"
+  },
+  {
+    "name": "DALL-E 3",
+    "description": "OpenAI's advanced text-to-image model that generates highly detailed and contextually accurate images from descriptions.",
+    "website_link": "https://openai.com/dall-e-3",
+    "category": "Image Generation"
+  },
+  {
+    "name": "Fireflies.ai",
+    "description": "An AI assistant that joins your meetings to transcribe, summarize, and analyze voice conversations.",
+    "website_link": "https://fireflies.ai/",
+    "category": "Productivity / Transcription"
+  },
+  {
+    "name": "Descript",
+    "description": "An all-in-one audio and video editor that uses AI to make editing as simple as editing a text document.",
+    "website_link": "https://www.descript.com/",
+    "category": "Video & Audio Editing"
+  },
+  {
+    "name": "Copy.ai",
+    "description": "An AI copywriter that generates content for marketing, sales, blogs, and social media.",
+    "website_link": "https://www.copy.ai/",
+    "category": "Content Generation"
+  },
+  {
+    "name": "Writesonic",
+    "description": "An AI writer for creating SEO-optimized, plagiarism-free articles, ads, emails, and website copy.",
+    "website_link": "https://writesonic.com/",
+    "category": "Content Generation"
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "A foundational open-source text-to-image model by Stability AI that allows for extensive customization and control.",
+    "website_link": "https://stability.ai/stable-diffusion",
+    "category": "Image Generation"
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "Adobe's family of creative generative AI models, designed to be commercially safe and integrated into Adobe's suite of apps.",
+    "website_link": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+    "category": "Image Generation / Design"
+  },
+  {
+    "name": "HeyGen",
+    "description": "An AI video platform specializing in creating realistic talking avatars, video translation, and voice cloning.",
+    "website_link": "https://www.heygen.com/",
+    "category": "Video Generation"
+  },
+  {
+    "name": "Pika Labs",
+    "description": "An AI video platform that can generate and edit videos in various styles from text and image prompts.",
+    "website_link": "https://pika.art/",
+    "category": "Video Generation"
+  },
+  {
+    "name": "QuillBot",
+    "description": "An AI-powered writing tool that functions as a paraphraser, summarizer, grammar checker, and citation generator.",
+    "website_link": "https://quillbot.com/",
+    "category": "Writing Assistant"
+  },
+  {
+    "name": "Otter.ai",
+    "description": "An AI meeting assistant that provides real-time transcription, automated summaries, and identifiable speaker notes.",
+    "website_link": "https://otter.ai/",
+    "category": "Productivity / Transcription"
+  },
+  {
+    "name": "Elicit",
+    "description": "An AI research assistant that helps automate literature reviews by finding relevant papers and summarizing key information.",
+    "website_link": "https://elicit.com/",
+    "category": "Research"
+  },
+  {
+    "name": "Surfer SEO",
+    "description": "An AI-driven content intelligence tool that helps you write, optimize, and rank articles on search engines.",
+    "website_link": "https://surferseo.com/",
+    "category": "SEO / Marketing"
+  },
+  {
+    "name": "Zapier",
+    "description": "An automation platform that connects thousands of apps. Its AI features allow for the creation of more intelligent automated workflows.",
+    "website_link": "https://zapier.com/",
+    "category": "Automation / Productivity"
+  },
+  {
+    "name": "Leonardo.Ai",
+    "description": "A platform for generating high-quality game assets, concept art, and illustrations using a variety of fine-tuned AI models.",
+    "website_link": "https://leonardo.ai/",
+    "category": "Image Generation"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "description": "Microsoft's branding for its AI assistant, integrated into Windows, Microsoft 365, and Edge to provide smart assistance.",
+    "website_link": "https://copilot.microsoft.com/",
+    "category": "Chatbot / LLM"
+  },
+  {
+    "name": "Gamma",
+    "description": "An AI tool for creating engaging presentations, documents, and webpages from text prompts, focusing on beautiful design.",
+    "website_link": "https://gamma.app/",
+    "category": "Presentation"
+  },
+  {
+    "name": "Cursor",
+    "description": "An AI-first code editor built from the ground up to help developers write, edit, and debug code faster with deep AI integration.",
+    "website_link": "https://cursor.sh/",
+    "category": "Coding Assistant"
+  },
+  {
+    "name": "Beautiful.ai",
+    "description": "An AI presentation maker that automatically applies design principles to create professional-looking slides in minutes.",
+    "website_link": "https://www.beautiful.ai/",
+    "category": "Presentation"
+  },
+  {
+    "name": "Udio",
+    "description": "An emerging AI music creation tool that generates high-quality, full-length songs with vocals from text prompts.",
+    "website_link": "https://www.udio.com/",
+    "category": "Music Generation"
+  },
+  {
+    "name": "Ideogram",
+    "description": "An AI image generator that excels at creating images with coherent and reliable text, a common challenge for other models.",
+    "website_link": "https://ideogram.ai/",
+    "category": "Image Generation"
+  },
+  {
+    "name": "InVideo AI",
+    "description": "An AI video generation tool that creates a publish-ready video from a single text prompt, complete with script, media, and voiceover.",
+    "website_link": "https://invideo.io/ai/",
+    "category": "Video Generation"
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "description": "An AI coding assistant integrated into the Replit online IDE, offering code generation, completion, and explanation.",
+    "website_link": "https://replit.com/site/ghostwriter",
+    "category": "Coding Assistant"
+  },
+  {
+    "name": "Humata AI",
+    "description": "An AI platform that acts as a chatbot for your files, allowing you to ask questions and get summarized answers from any document.",
+    "website_link": "https://www.humata.ai/",
+    "category": "Research / Productivity"
+  },
+  {
+    "name": "Adobe Podcast",
+    "description": "An AI-powered web-based tool for recording and editing audio, featuring a flagship 'Enhance Speech' function to remove background noise.",
+    "website_link": "https://podcast.adobe.com/",
+    "category": "Audio Editing"
+  },
+  {
+    "name": "Rytr",
+    "description": "An AI writing assistant that helps you generate high-quality content for blogs, emails, and social media in just a few seconds.",
+    "website_link": "https://rytr.me/",
+    "category": "Content Generation"
+  },
+  {
+    "name": "Tabnine",
+    "description": "An AI code completion assistant that works in your favorite IDE to predict and suggest the next lines of code.",
+    "website_link": "https://www.tabnine.com/",
+    "category": "Coding Assistant"
+  },
+  {
+    "name": "Pictory",
+    "description": "An AI video creator that automatically transforms long-form content like blogs, webinars, and podcasts into short, shareable videos.",
+    "website_link": "https://pictory.ai/",
+    "category": "Video Generation"
+  },
+  {
+    "name": "Semrush",
+    "description": "A comprehensive SEO and marketing toolkit that has integrated AI features for content strategy, keyword research, and competitor analysis.",
+    "website_link": "https://www.semrush.com/",
+    "category": "SEO / Marketing"
+  },
+  {
+    "name": "Make.com",
+    "description": "A powerful visual automation platform that allows you to connect apps and automate workflows using a drag-and-drop interface.",
+    "website_link": "https://make.com/",
+    "category": "Automation / Productivity"
+  },
+  {
+    "name": "Consensus",
+    "description": "An AI-powered search engine for scientific research that extracts and distills findings directly from published papers.",
+    "website_link": "https://consensus.app/",
+    "category": "Research"
+  },
+  {
+    "name": "AIVA",
+    "description": "An AI Music Generation Assistant that helps create original compositions and soundtracks in various genres and styles.",
+    "website_link": "https://www.aiva.ai/",
+    "category": "Music Generation"
+  },
+  {
+    "name": "Figma",
+    "description": "A leading collaborative design tool that has incorporated AI features like Jambot to help automate brainstorming and diagramming.",
+    "website_link": "https://www.figma.com/",
+    "category": "Design"
+  },
+  {
+    "name": "Julius AI",
+    "description": "An AI data analyst that allows you to chat with your data to analyze spreadsheets, create charts, and uncover insights.",
+    "website_link": "https://julius.ai/",
+    "category": "Data Analysis"
+  },
+  {
+    "name": "Frase.io",
+    "description": "An AI tool that helps content creators research, write, and optimize articles for better SEO performance.",
+    "website_link": "https://frase.io/",
+    "category": "SEO / Content Generation"
+  }
+]
